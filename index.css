@@ -146,7 +146,7 @@ color:hsl(0, 0%, 100%);
     .container{
         display:grid;
         grid-template-rows:40% 60% ;
-        max-width:375px;
+        max-width:500px;
         
        
     }
